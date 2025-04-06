@@ -1,5 +1,5 @@
 ## Sobre mim
-Olá, meu nome é [Seu Nome], tenho [X] anos e sou um profissional apaixonado pela programação, atraído pela capacidade da tecnologia de transformar ideias em realidade. Essa fascinante possibilidade me motivou a seguir a carreira de programador, onde posso aplicar minha criatividade e habilidades técnicas para criar soluções inovadoras. Estou em busca da minha primeira oportunidade nas áreas de Desenvolvimento Web ou Programação.
+Olá, meu nome é Leonardo Vitor, tenho 22 anos e sou um profissional apaixonado pela programação, atraído pela capacidade da tecnologia de transformar ideias em realidade. Essa fascinante possibilidade me motivou a seguir a carreira de programador, onde posso aplicar minha criatividade e habilidades técnicas para criar soluções inovadoras. Estou em busca da minha primeira oportunidade nas áreas de Desenvolvimento Web ou Programação.
 
 ## Tecnologias
 
