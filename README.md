@@ -1,14 +1,16 @@
 ## Sobre mim
 Olá, meu nome é Leonardo Vitor, sou um profissional apaixonado pela programação, atraído pela capacidade da tecnologia de transformar ideias em realidade. Essa fascinante possibilidade me motivou a seguir a carreira de programador, onde posso aplicar minha criatividade e habilidades técnicas para criar soluções inovadoras. Estou em busca da minha primeira oportunidade nas áreas de Desenvolvimento Web ou Programação.
 
-## Tecnologias
+## Stack de Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" alt="Styled components" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="60px"/>
 </p>
 
 
@@ -16,8 +18,8 @@ Olá, meu nome é Leonardo Vitor, sou um profissional apaixonado pela programaç
 ## Meu Status do Github
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoVRR&show_icons=true&theme=dark" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVRR&layout=compact&theme=dark" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoVRR&show_icons=true&theme=dark&locale=pt-br" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVRR&layout=compact&theme=dark&locale=pt-br" width="320"/>
 </p>
 
 
