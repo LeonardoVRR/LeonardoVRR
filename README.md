@@ -44,7 +44,7 @@ Olá, meu nome é Leonardo Vitor, sou um profissional apaixonado pela programaç
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoVRR&theme=dark&locale=pt_br" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoVRR&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
 
 ## Estante de Troféus
